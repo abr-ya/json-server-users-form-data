@@ -1,0 +1,16 @@
+{
+  "name": "json-server-users-form-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
